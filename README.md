@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&customColorList=10,20,30&height=200&section=header&text=Shashank%20Shrestha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2CF2FF&center=true&vCenter=true&width=640&lines=Aerospace+Engineering+Student+✈️;IoT+%26+Embedded+Developer+🤖;CAD+Designer+%26+Visualizer+🎨;Flight+Control+Enthusiast+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2CF2FF&center=true&vCenter=true&width=640&lines=Aerospace+Engineering+Student+%E2%9C%88%EF%B8%8F;IoT+%26+Embedded+Developer+%F0%9F%A4%96;CAD+Designer+%26+Visualizer+%F0%9F%8E%A8;Flight+Control+Enthusiast+%F0%9F%9A%80" />
 
 <br/>
 
@@ -28,81 +28,97 @@
 
 ```cpp
 struct Engineer {
-  string name      = "Shashank Shrestha";
+  string name       = "Shashank Shrestha";
   string university = "IOE, Pulchowk Campus, Nepal 🇳🇵";
   string major      = "B.E. Aerospace Engineering";
   string role       = "R&D Coordinator @ SEDS Pulchowk";
-  
+
   string[] focus    = {"Flight Control Systems", "IoT", "CAD Design"};
   string[] hardware = {"ESP32", "Arduino Nano", "RPi Pico"};
   string[] tools    = {"Three.js", "Python", "SolidWorks", "Node.js"};
-  
+
   bool openToCollab = true;
 };
-🔭 Expertise & Interests
-Digital Twin Systems: Integrating physical sensors (MPU6050/BMP280) with real-time Three.js web simulations.
-Flight Mechanics: Developing custom flight controller firmware and PID tuning algorithms.
-Aerospace R&D: Leading research and development initiatives at SEDS (Students for the Exploration and Development of Space) Pulchowk.
-STEAM Innovation: Building experimental physics apparatus like Cloud Chambers for particle detection.
-🛠️ Tech Stack
-Programming & Embedded
-![alt text](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+```
 
-![alt text](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+---
 
-![alt text](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
+## 🛠️ Tech Stack
 
-![alt text](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-Hardware
-![alt text](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Arduino_Nano-00979D?style=flat-square)
-
-![alt text](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-Frontend & Simulation
-![alt text](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-![alt text](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
-
-![alt text](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-📂 Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-🚁 Digital Twin Flight Controller
-A real-time flight control ecosystem using an Arduino Nano, MPU6050, and BMP280. It features a custom Web-Serial dashboard built with Three.js to visualize 3D orientation, altitude trends, and PID motor responses in real-time.
-Key Tech: C++ · Sensor Fusion · WebSerial · Three.js
-</td>
-<td width="50%" valign="top">
-🌌 STEAM: Particle Cloud Chamber
-An experimental physics project designed to visualize ionizing radiation. This project involved precise thermal management and structural design to create a stable supersaturated environment for detecting cosmic rays.
-Key Tech: Thermodynamics · CAD Design · Physical Computing
-</td>
-</tr>
-</table>
-📊 GitHub Analytics
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shashankstha&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankstha&layout=compact&theme=tokyonight" />
+
+**Languages**
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankstha&theme=tokyonight&area=true&hide_border=true" width="100%" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+
+**Embedded & Hardware**
+<br/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+
+**Web & Visualization**
+<br/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" />
+
+**Design & CAD**
+<br/>
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white" />
+
 </div>
-🎯 Current Objectives
 
-Perfecting HIL (Hardware-in-the-Loop) simulations for UAVs.
+---
 
-Mastering high-fidelity CAD modeling for aerospace structures.
+## 🛰️ Featured Projects
 
-Expanding IoT ecosystems using ESP-NOW and WebSocket protocols.
+### ✈️ Drone Flight Controller & 3D Ground Control Station
+Custom flight controller built on ESP32 with a real-time, browser-based 3D ground control station rendered in Three.js. Streams live telemetry — orientation, altitude, and GPS — straight from hardware to browser over the Web Serial API.
+`ESP32` `MPU6050/9250` `BMP280` `TinyGPS+` `Three.js` `Web Serial API` `PID Control`
 
-Contributing to open-source flight dynamics libraries.
-📬 Connect with me
+### 🔍 STR Signal Scorer
+An end-to-end pipeline that ingests Suspicious Transaction Report (STR) narratives and scores them using TF-IDF, regex, and rule-based logic. Built and refined through multiple validation passes — including leakage checks and statistical testing — for a hackathon submission.
+`Python` `TF-IDF` `NLP` `Data Validation` `Google Colab`
+
+### 📊 TRACKR
+A self-contained, single-file productivity web app for academic life — monthly scheduling, attendance tracking with threshold warnings, and visual analytics, all running client-side with persistent local storage.
+`JavaScript` `Chart.js` `LocalStorage`
+
 <div align="center">
-![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![alt text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/See_more_on_Portfolio-00ffcc?style=for-the-badge&logo=vercel&logoColor=black)](https://shashankstha.com.np/)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shashankstha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=2CF2FF&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankstha&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffcc&fire=2CF2FF&currStreakLabel=00ffcc" width="48%" />
+
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&customColorList=10,20,30&height=80&section=footer" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankstha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankstha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2CF2FF&line=00ffcc&point=ffffff" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Build Something
+
+Always open to collaborating on flight control systems, embedded IoT projects, or anything that involves making hardware talk to the browser.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffcc&customColorList=10,20,30&height=100&section=footer" />
+
 </div>
