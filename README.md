@@ -94,7 +94,7 @@ A self-contained, single-file productivity web app for academic life — monthly
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/See_more_on_Portfolio-00ffcc?style=for-the-badge&logo=vercel&logoColor=black)](https://shashankstha.com.np/)
+[![Portfolio](https://img.shields.io/badge/See_more_on_Portfolio-00ffcc?style=for-the-badge&logo=vercel&logoColor=black)](https://shashank7.com.np/)
 
 </div>
 
