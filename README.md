@@ -27,18 +27,14 @@
 ## 🚀 Aerospace & IoT Engineer
 
 ```cpp
-struct Engineer {
-  string name       = "Shashank Shrestha";
-  string university = "IOE, Pulchowk Campus, Nepal 🇳🇵";
-  string major      = "B.E. Aerospace Engineering";
-  string role       = "R&D Coordinator @ SEDS Pulchowk";
+Name       = "Shashank Shrestha"
+University = "IOE, Pulchowk Campus, Nepal 🇳🇵"
+Major      = "B.E. Aerospace Engineering"
+Role       = "R&D Coordinator @ SEDS Pulchowk"
 
-  string[] focus    = {"Flight Control Systems", "IoT", "CAD Design"};
-  string[] hardware = {"ESP32", "Arduino Nano", "RPi Pico"};
-  string[] tools    = {"Three.js", "Python", "SolidWorks", "Node.js"};
-
-  bool openToCollab = true;
-};
+Focus    = "Flight Control Systems", "IoT", "CAD Design"
+Hardware = "ESP32", "Arduino Nano", "RPi Pico"
+Tools    = "Three.js", "Python", "SolidWorks", "Node.js"
 ```
 
 ---
