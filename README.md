@@ -72,7 +72,7 @@ struct Engineer {
 <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=solidworks&logoColor=white" />
 <img src="https://img.shields.io/badge/Fusion_360-EA5002?style=for-the-badge&logo=autodeskfusion360&logoColor=white" />
 <img src="https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" />
-<img src="https://img.shields.io/badge/Onshape-1B2C3A?style=for-the-badge&logo=onshape&logoColor=white" />
+<img src="https://img.shields.io/badge/Onshape-1B5FAA?style=for-the-badge&logo=onshape&logoColor=white" />
 
 </div>
 
